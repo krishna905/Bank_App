@@ -1,0 +1,61 @@
+.register {
+    width: 400px;
+    background-color: black;
+    opacity: 0.8;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    margin-left: 500px;
+    padding-top: 2%;
+    padding-bottom: 10px;
+}
+#imgbacck{
+    padding-top:20%;
+    background-image: url("https://thumbs.dreamstime.com/b/wallet-set-different-credit-bank-visit-cards-collection-wallet-set-different-credit-bank-visit-cards-221930222.jpg");
+    height: 700px;
+    
+}
+
+.register > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.register > .button {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+
+#bluebutt{
+    width: fit-content;
+   margin-left: 7%;
+}
+
+#bluebutt1{
+    width: fit-content;
+   margin-left: 7%;
+   background-color: red;
+   margin-top: 8%;
+}
+#or{
+    margin-left:3%;
+    position: absolute;
+    color: blue;
+}

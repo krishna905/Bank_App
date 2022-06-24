@@ -1,0 +1,13 @@
+.container1{
+    margin-top: 50px;
+    
+    margin-left:150px;
+}
+.chart{
+    border:2px solid black;
+    padding:30px;
+    
+}
+yAxes{
+color:green;
+}

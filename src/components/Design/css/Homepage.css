@@ -1,0 +1,108 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    position:flex-end;
+
+}
+.caa{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.row1{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.row2{
+    margin-left: 290px;
+}
+
+.deposits{
+    background-color: rgb(166, 74, 253);
+    height: 200px;
+    
+}
+.savings{
+    background-color:rgb(0, 247, 255);
+    height: 200px;
+   
+}
+.withdraw{
+    background-color: rgb(238, 255, 0);
+    height: 200px;
+}
+.head{
+    font-size: large;
+    color: rgb(245, 248, 246);
+}
+.amm{
+    margin-top: 25px;
+    font-size: 30px;
+    color: rgb(252, 252, 252);
+    
+}
+
+.amm2{
+    margin-top: 25px;
+    font-size:35px;
+    color: black;
+
+}
+
+.amm3{
+    margin-top: 25px;
+    font-size: 30px;
+    color: red;
+}
+.sub{
+    color: cornsilk;
+}
+
+.sub2{
+    color: black;
+}
+
+.sub3{
+    color: red;
+}
+
+.first{
+    background-color: rgb(166, 74, 253);;
+}
+
+.foott1{
+    width: 100%;
+    
+}
+
+#bottomm11{
+    background-color: rgb(4, 70, 94);
+    display: inline-flex;
+    position: absolute;
+    bottom:-70%;
+    left: 0%;
+    height: 50%;
+    width: 100%;
+    color: white;
+
+}
+#Get11{
+    list-style: none;
+   
+}
+#Get11 li{
+    
+    padding-left: 0%;
+}
+
+#disc11{
+    width: 700px;
+    position: absolute;
+    right: 10px;
+}
+#sider11{
+    margin-top: 18px;
+    color: white;
+    font-size: large;
+    font-family: unset;
+}

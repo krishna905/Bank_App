@@ -1,0 +1,65 @@
+.login {
+    width: 400px;
+    background-color: black;
+    opacity: 0.8;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    margin-left: 500px;
+    padding-top: 2%;
+    padding-bottom: 10px;
+    
+    
+}
+.dis{
+    color: red;
+    margin-left: 500px;
+   
+}
+.login > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #fdfdfd;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.login > .button {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.3rem;
+    padding: 0.5rem;
+    margin: 0.5rem 2rem 0.5rem;
+    width: 20%;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+#imgback{
+    padding-top: 90px;
+    background-image: url("https://thumbs.dreamstime.com/b/wallet-set-different-credit-bank-visit-cards-collection-wallet-set-different-credit-bank-visit-cards-221930222.jpg");
+    height: 1300px;
+    
+}
+.login h1{
+    color: white;
+}
+.labe{
+    color: white;
+    position: absolute;
+    left: 12%;
+    
+}
+
+#adminregform{
+    margin-top: 18%;
+    margin-left: 35%;
+}

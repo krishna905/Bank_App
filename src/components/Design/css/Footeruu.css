@@ -1,0 +1,31 @@
+#bottomm{
+    background-color: rgb(4, 70, 94);
+    display: inline-flex;
+    position: absolute;
+    bottom:-120%;
+    left: 0%;
+    height: 300px;
+    width: 100%;
+    color: white;
+
+}
+#Get{
+    list-style: none;
+   
+}
+#Get li{
+    
+    padding-left: 0pt;
+}
+
+#disc{
+    width: 700px;
+    position: absolute;
+    right: 10px;
+}
+#sider{
+    margin-top: 18px;
+    color: white;
+    font-size: large;
+    font-family: unset;
+}

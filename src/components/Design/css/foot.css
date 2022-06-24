@@ -1,0 +1,36 @@
+.foot{
+    width: 100%;
+    
+}
+
+#bottomm1{
+    background-color: rgb(4, 70, 94);
+    display: inline-flex;
+    position: absolute;
+    bottom:-220%;
+    left: 0%;
+    height: 50%;
+    width: 100%;
+    color: white;
+
+}
+#Get1{
+    list-style: none;
+   
+}
+#Get1 li{
+    
+    padding-left: 0%;
+}
+
+#disc1{
+    width: 700px;
+    position: absolute;
+    right: 10px;
+}
+#sider1{
+    margin-top: 18px;
+    color: white;
+    font-size: large;
+    font-family: unset;
+}

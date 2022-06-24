@@ -1,0 +1,59 @@
+.flipkart,
+.zomato,
+.nyka{
+    color: rgb(98, 255, 83);
+    
+}
+
+.swiggy{
+    color: red;
+}
+.expired{
+    height: 330px;
+    width:290px;
+    color: rgb(255, 102, 102);
+    font-size: 27px;
+    font-family: fantasy;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+
+ 
+}
+.expire{
+    background-color: rgb(151, 148, 148);
+}
+.sym{
+    font-size:  120px;
+    position: absolute;
+    left: 76px;
+    margin-top: 55px;
+    color:rgb(102, 101, 101);
+}
+.scratched{
+    height: 330px;
+    width:290px;
+    color: rgb(0, 31, 3);
+    font-size: 27px;
+    font-family: fantasy;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+}
+.scratch{
+    background-color: rgb(191, 99, 233);
+}
+
+.sym2{
+    font-size:  120px;
+    position: absolute;
+    left: 76px;
+    margin-top: 55px;
+    color:rgb(162, 0, 255);
+
+}
+.row2,
+.row3{
+    margin-top: 10px;
+}
+.nykaa{
+    height: 350px;
+    width:290px;
+
+}

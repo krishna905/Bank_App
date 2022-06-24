@@ -1,0 +1,110 @@
+.conss{
+    margin-left: 2%;
+    
+}
+
+.conss h3{
+    font-weight: 700;
+}
+#middle{
+position :absolute;
+left:45%;
+}
+
+#tabb{
+    
+    position:absolute;
+    top: 30%;
+    left: 30%;
+    margin-left: 2%;
+    margin-top: 1%;
+    border-radius: 5px;
+width: 500px;
+height: fit-content;
+border:  0.5px solid black;
+
+}
+#tabb a{
+   
+    padding-left: 2%;
+    margin-left: 10px;
+}
+
+#comment{
+    width: 500px;
+    border: black;
+}
+.que{
+    position: absolute;
+    left: 35%;
+}
+
+
+
+
+
+.switch {
+    position: absolute;
+    top:18%;
+    right:2%;
+    width: 60px;
+    height: 34px;
+  }
+  
+  .switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  .form12{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    position: absolute;
+    left: 40%;
+  }
+  #messbox{
+    width: 5%;
+    height: 100px;
+
+  }
+  

@@ -1,0 +1,60 @@
+.wide{
+    width: 800px;
+    border: solid rgb(95, 95, 95) 0.2px;
+    border-radius: 5px;
+    height: 150px;
+    display: flex;
+    margin-left: 290px;
+    margin-top: 20px;
+  justify-content: center
+
+}
+#titt{
+    font-weight: 900;
+}
+ 
+.img1{
+    position: absolute;
+    top: 29%;
+    left: 2%;  
+}
+.img2{
+    position: absolute;
+    top: 29%;
+    left: 2%;  
+    
+}
+.img3{
+    position: absolute;
+    top: 29%;
+    left:2%;  
+}
+.fii{
+    padding-left: 10%;
+    margin-left: 110px;
+}
+.tim1{
+    position: absolute;
+    top:82%;
+    left:2%;
+}
+.tim2{
+    position:absolute;
+    top:82%;
+    left:2%;
+}
+.tim3{
+    position: absolute;
+    top: 82%;
+    left: 2%;   
+}
+.tim4{
+    position: absolute;
+    top: 82%;
+    left: 2%;   
+}
+.tim5{
+    position: absolute;
+    left:2%;
+    top:82%;
+}
